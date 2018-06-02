@@ -6,4 +6,5 @@ before_script:
   - npm i npm@latest -g
   - npm install
 
-script: ng server
+script: ng serve
+script: ng build
